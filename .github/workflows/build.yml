@@ -13,7 +13,7 @@ on:
   workflow_dispatch: {}
 
 env:
-  KERNEL_VERSION: 6.1.21.2
+  KERNEL_VERSION: 6.6.36.6
 
 jobs:
   build:
